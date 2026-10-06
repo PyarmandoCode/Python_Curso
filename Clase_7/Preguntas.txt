@@ -1,0 +1,11 @@
+1. ¿Qué sucede cuando una excepción no se maneja?
+Respuesta=
+2. ¿Qué diferencia existe entre ValueError y TypeError?
+3. ¿Cuándo se ejecuta else?
+4. ¿Para qué se utiliza finally?
+5. ¿Qué hace raise?
+6. ¿Por qué conviene capturar excepciones específicas?
+7. ¿Qué ventaja ofrece with al abrir archivos?
+Reto práctico: crear un programa que solicite el precio y la cantidad 
+de un producto. Debe controlar datos no numéricos, rechazar precios 
+menores o iguales a cero y aceptar únicamente cantidades enteras positivas. Cuando ambos datos sean válidos, debe mostrar el total de la compra.
